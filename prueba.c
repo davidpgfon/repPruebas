@@ -5,6 +5,6 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-	printf("Hola mundo\n");
+	printf("Hola mundo!!\n");
 	exit(0);
 }
